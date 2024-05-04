@@ -1,0 +1,8 @@
+# _config.yml
+# Set the title and description of your website
+title: richardyanowitz.com website
+description: This is my website
+# Choose a theme for your website
+theme: jekyll-theme-minimal
+# Set the baseurl for your website
+baseurl: /
