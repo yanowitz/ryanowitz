@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Commentary on the film, &#8220;Planet of the Humans&#8221; &#8211; Autobiography with musings</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Commentary on the film, &#8220;Planet of the Humans&#8221;" />
+<meta property="og:description" content="April 28, 2020 My wife, Barbara Beitch, a biologist, was instrumental in reviewing what I wrote and making useful recommendations and clarifications, some of which I’ve quoted in footnotes. Any errors in the final product, however, are of course mine…" />
+<meta property="og:url" content="https://www.richardyanowitz.com/wordpress/commentary-on-the-film-planet-of-the-humans/" />
+<meta property="og:site_name" content="Autobiography with musings" />
+<meta property="article:published_time" content="2020-04-28T17:27:24-04:00" />
+<meta property="article:modified_time" content="2020-04-30T15:42:37-04:00" />
+<meta property="og:updated_time" content="2020-04-30T15:42:37-04:00" />
+<meta property="article:section" content="&gt; Climate crisis" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Commentary on the film, &#8220;Planet of the Humans&#8221;" />
+<meta name="twitter:description" content="April 28, 2020 My wife, Barbara Beitch, a biologist, was instrumental in reviewing what I wrote and making useful recommendations and clarifications, some of which I’ve quoted in footnotes. Any errors in the final product, however, are of course mine…" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@" />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="Autobiography with musings &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Autobiography with musings &raquo; Comments Feed" href="comments/feed/index.html" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.richardyanowitz.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='wp-includes/css/dist/block-library/style.min.css?ver=6.5.2' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='hfe-style-css' href='wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.28' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.29.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.21.4' media='all' />
+<link rel='stylesheet' id='swiper-css' href='wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-148-css' href='wp-content/uploads/elementor/css/post-148.css?ver=1714664392' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='wp-content/uploads/elementor/css/global.css?ver=1714664392' media='all' />
+<link rel='stylesheet' id='pdfp-public-css' href='wp-content/plugins/pdf-poster/dist/public.css?ver=2.1.21' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.4.2' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css' href='wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css' href='wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.5.5' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css' href='wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.5.2' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.2' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script src="wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/posts/581" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.2" />
+<link rel="canonical" href="index.html?p=581" />
+<link rel='shortlink' href='index.html?p=581' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.richardyanowitz.com%252Fwordpress%252Fcommentary-on-the-film-planet-of-the-humans%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed?url=https:%252F%252Fwww.richardyanowitz.com%252Fwordpress%252Fcommentary-on-the-film-planet-of-the-humans%252F&amp;format=xml" />
+        <style>
+                    </style>
+        		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+				<script>
+			( function() {
+				window.onpageshow = function( event ) {
+					// Defined window.wpforms means that a form exists on a page.
+					// If so and back/forward button has been clicked,
+					// force reload a page to prevent the submit button state stuck.
+					if ( typeof window.wpforms !== 'undefined' && event.persisted ) {
+						window.location.reload();
+					}
+				};
+			}() );
+		</script>
+		<meta name="generator" content="Elementor 3.21.4; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#0902e0}table th,table td,hr,.content-area,body.content-left-sidebar #content-wrap .content-area,.content-left-sidebar .content-area,#top-bar-wrap,#site-header,#site-header.top-header #search-toggle,.dropdown-menu ul li,.centered-minimal-page-header,.blog-entry.post,.blog-entry.grid-entry .blog-entry-inner,.blog-entry.thumbnail-entry .blog-entry-bottom,.single-post .entry-title,.single .entry-share-wrap .entry-share,.single .entry-share,.single .entry-share ul li a,.single nav.post-navigation,.single nav.post-navigation .nav-links .nav-previous,#author-bio,#author-bio .author-bio-avatar,#author-bio .author-bio-social li a,#related-posts,#comments,.comment-body,#respond #cancel-comment-reply-link,#blog-entries .type-page,.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span,body #wp-calendar caption,body #wp-calendar th,body #wp-calendar tbody,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .posts-thumbnails-widget li,body .tagcloud a{border-color:#001693}body .contact-info-widget.big-icons .owp-icon,body .contact-info-widget.default .owp-icon{border-color:#001693}body{background-size:contain}a{color:#0c9af2}a .owp-icon use{stroke:#0c9af2}.boxed-layout #wrap,.boxed-layout .parallax-footer,.boxed-layout .owp-floating-bar{width:4000px}@media only screen and (min-width:960px){.content-area,.content-left-sidebar .content-area{width:79%}}@media only screen and (min-width:960px){.widget-area,.content-left-sidebar .widget-area{width:20%}}/* Header CSS */#site-header-inner{padding:80px}#site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-width:454px}#site-header #site-logo #site-logo-inner a img,#site-header.center-header #site-navigation-wrap .middle-site-logo a img{max-height:437px}/* Header Image CSS */#site-header{background-image:url(wp-content/uploads/2019/08/IMG_2820-e1605397290243.jpg);background-position:top center;background-repeat:no-repeat}/* Top Bar CSS */#top-bar{padding:60px 0 60px 0}/* Typography CSS */body{font-size:20px}
+</style><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-border-style: solid;
+--wpforms-field-border-size: 1px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-border-color-spare: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-field-menu-color: #ffffff;
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-border-style: none;
+--wpforms-button-border-size: 1px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-border-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-page-break-color: #066aab;
+--wpforms-background-image: none;
+--wpforms-background-position: center center;
+--wpforms-background-repeat: no-repeat;
+--wpforms-background-size: cover;
+--wpforms-background-width: 100px;
+--wpforms-background-height: 100px;
+--wpforms-background-color: rgba( 0, 0, 0, 0 );
+--wpforms-background-url: none;
+--wpforms-container-padding: 0px;
+--wpforms-container-border-style: none;
+--wpforms-container-border-width: 1px;
+--wpforms-container-border-color: #000000;
+--wpforms-container-border-radius: 3px;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+--wpforms-container-shadow-size-box-shadow: none;
+
+				}
+			</style></head>
+
+<body class="post-template-default single single-post postid-581 single-format-standard wp-embed-responsive ehf-template-oceanwp ehf-stylesheet-oceanwp oceanwp-theme dropdown-mobile boxed-layout wrap-boxshadow top-header-style no-header-border default-breakpoint has-sidebar content-right-sidebar post-in-category-climatecrisis page-header-disabled has-breadcrumbs elementor-default elementor-kit-148" itemscope="itemscope" itemtype="https://schema.org/Article">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="index.html?p=581#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+			
+<header id="site-header" class="top-header has-header-media clr" data-height="155" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+		
+
+<div class="header-top clr">
+
+	
+	<div id="site-header-inner" class="clr">
+
+		
+		<div class="left clr">
+
+			<div class="inner">
+
+				
+				
+			</div>
+
+		</div>
+
+		<div class="right clr">
+
+			<div class="inner">
+
+				<div id="search-toggle"><a href="index.html#" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></div>
+<div id="searchform-dropdown" class="header-searchform-wrap clr" >
+	
+<form aria-label="Search this website" role="search" method="get" class="searchform" action="index.html">	
+	<input aria-label="Insert search query" type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+		</form>
+</div><!-- #searchform-dropdown -->
+
+			</div>
+
+		</div>
+
+	</div><!-- #site-header-inner -->
+
+	
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<div class="menu"><li class="page_item page-item-115"><a href="index.html?p=115">> Acting resume</a></li>
+<li class="page_item page-item-127"><a href="index.html?p=127">> Teaching resume</a></li>
+<li class="page_item page-item-32"><a href="index.html">Parts of my life that drive this blog</a></li>
+</div>
+<ul id="menu-main-menu" class="menu"><li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="../COstatement1965.html">Avoiding the Vietnam draft</a></li>
+</ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="index.html" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+	
+</div><!-- .header-top -->
+
+	<div class="header-bottom clr">
+		<div class="container">
+			
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+						<a href="index.html" rel="home" class="site-title site-logo-text" >Autobiography with musings</a>
+				
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+		</div>
+	</div>
+	
+					<div class="overlay-header-media"></div>
+			
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article id="post-581">
+
+	
+
+<header class="entry-header clr">
+	<h2 class="single-post-title entry-title" itemprop="headline">Commentary on the film, &#8220;Planet of the Humans&#8221;</h2><!-- .single-post-title -->
+</header><!-- .entry-header -->
+
+
+<ul class="meta ospm-default clr">
+
+	
+					<li class="meta-author" itemprop="name"><span class="screen-reader-text">Post author:</span><i class=" icon-user" aria-hidden="true" role="img"></i><a href="author/admin/page/1/index.html" title="Posts by Richard" rel="author"  itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Richard</a></li>
+		
+		
+		
+		
+		
+		
+	
+		
+					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class=" icon-clock" aria-hidden="true" role="img"></i>April 28, 2020</li>
+		
+		
+		
+		
+		
+	
+		
+		
+		
+					<li class="meta-cat"><span class="screen-reader-text">Post category:</span><i class=" icon-folder" aria-hidden="true" role="img"></i><a href="category/climatecrisis/index.html" rel="category tag">&gt; Climate crisis</a></li>
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+	
+</ul>
+
+
+
+<div class="entry-content clr" itemprop="text">
+	<p>April 28, 2020</p>
+<p><em>My wife, Barbara Beitch, a biologist, was instrumental in reviewing what I wrote and making useful recommendations and clarifications, some of which I’ve quoted in footnotes. Any errors in the final product, however, are of course mine alone.</em></p>
+<p>With considerable dismay, I watched this troubling (though cleverly titled) film a few nights ago. My bottom line: I have no way of judging whether any given claim is accurate. Critical thinking is not the film’s strong suit, though the filmmakers are certainly “critical.” Pronouncements are often <em>ex cathedra</em> so that we are expected to take the word of someone (often that of the narrator or producer) without further validation. This shortcoming makes all the difference, especially for those among the deniers<a href="index.html?p=581#_edn1" name="_ednref1">[1]</a> and 3+ million viewers in general (so far) prone to take it at face value and make it a basis for future approaches to the climate crisis.<a href="index.html?p=581#_edn2" name="_ednref2">[2]</a></p>
+<p>CAVEATS/FULL(?) DISCLOSURE</p>
+<ol>
+<li>To avoid endless content, this long commentary addresses only a few disturbing parts of the film. I put this version forth in case it helps others’ thinking about the film.</li>
+<li>I watched the film fully only once. Not having the stomach to do so again, for this commentary I skimmed through it to review only certain moments. Consequently, my comments depend considerably on a memory that may not always be accurate. I welcome factual corrections from people who spot such mistakes.</li>
+<li>Barbara and I attended an Al Gore “Climate Reality” training session a few years back, and we have been teaching and making presentations based on what we learned there but with our own ongoing research and many of our own additions to slide presentations. We don’t always agree with Gore, and we don’t feel a need to protect him from criticism.</li>
+</ol>
+<p>The film was initially released in 2019, and on Earth Day this year<a href="index.html?p=581#_edn3" name="_ednref3">[3]</a> Moore arranged for YouTube to screen it for free through May 21.<a href="index.html?p=581#_edn4" name="_ednref4">[4]</a> It is directed by Jeff Gibbs and produced by Ozzie Zehner, both of whom have a lot of their own ideas (“beliefs”?) to stake out (Gibbs is the narrator), with Michael Moore as Executive Producer (in the film’s ad, his name is as prominent as Gibbs’s).<a href="index.html?p=581#_edn5" name="_ednref5">[5]</a> Moore’s name, of course, gives the film an imprimatur<a href="index.html?p=581#_edn6" name="_ednref6">[6]</a> that, in this case, prompted me to watch, which I probably wouldn&#8217;t have done had it been characterized as a “Jeff Gibbs [or Ozzie Zehner] film.” (I assume that like me, many other people never previously heard of Gibbs or Zehner.)</p>
+<p>In general, I’ve enjoyed Moore’s own directed films and his puckish approach to revealing social/political/economic improprieties, <a href="index.html?p=581#_edn7" name="_ednref7">[7]</a> many of which I have assumed are real. I don’t feel that way about this film. I have no idea how much control he exercised over it—or, to put it another way, how intimately versed or knowledgeable he was on every detail.</p>
+<p>For Gibbs and Zehner, this film is in great part a <em>mea culpa</em> atonement. Long-time environmental supporters of green energy, they have had epiphanies about how wrong they were—not about climate change, but about a green solution. They are both soft-spoken, which lends a tone of credibility to what are often highly questionable pronouncements.</p>
+<p>Climate scientists I trust, like Michael Mann (who is never mentioned in the film), have charged the movie as “dangerous, misleading and destructive” and called for it to be “taken down,” though despite its seeming echo of trumpism argumentative (to put it nicely) strategies, my ACLU background makes me oppose that. Indeed, one distributor took it down for half a day but finally “decided to put it back up because we believe media literacy, critique and debate is the best solution to misinformation.”<a href="index.html?p=581#_edn8" name="_ednref8">[8]</a> There is no question in my mind, however, that the film’s presence will make our job much harder in garnering support for “good” renewable energy (like the solar and wind the filmmakers repudiate, as opposed to biomass, which they justly criticize), and, by extension, educating people on the subtleties of the climate crisis.</p>
+<p>The film’s strongest moments are when it presents published material in support of its claims, but even that raises questions. Its weakest moments are when we’re expected to take as gospel each on-screen interpretation or local problems that, if real, may not be widely representative.<a href="index.html?p=581#_edn9" name="_ednref9">[9]</a> I kept finding myself wondering how many interviews had NOT been used, especially if they did not serve the goal of the film makers. No major climate scientist, like Michael Mann<a href="index.html?p=581#_edn10" name="_ednref10">[10]</a> or Katherine Hayhoe,<a href="index.html?p=581#_edn11" name="_ednref11">[11]</a> is included (though of course I don’t know if any were interviewed). The filmmakers do interview academics who reinforce their goals, though so far as I remember, none are explicitly climate scientists.</p>
+<p>What is the film’s goal? Here’s a reasonable, if angry, take:</p>
+<p style="padding-left: 40px;">The main argument of this movie is that renewable energy not only isn’t better than fossil fuels, but is harmful because it’s the result of some kind of grand conspiracy between financial interests and big environmental groups to distract us from the real solution.<a href="index.html?p=581#_edn12" name="_ednref12"><sup>[12]</sup></a></p>
+<p>I think the “because” is unwarranted: even if collusion exists between “financial interests and big environmental groups,” it could be a marriage of convenience rather than a ruthless conspiracy, and if you accept that renewable energy is harmful (which I am disinclined to do), other reasons are possible besides the alleged conspiracy (which in turn might or might not leverage the opportunity for nefarious behavior).</p>
+<p>On the surface, the film certainly sets out to expose drastic shortcomings in the climate crisis movement, including hypocrisy of some of its key public figures (like Al Gore and Bill McKibben), and organizations (like the Sierra Club and 350.org) and their selling out to (big) business interests. But below the surface I sense a suspect agenda, characterized by one review as “ecofacism,”<a href="index.html?p=581#_edn13" name="_ednref13">[13]</a> So far as I recall, the film neither considers nor bashes a single one of the 97%+ of knowledgeable climate scientists who warn of the coming disaster and often recommend technology that the filmmakers denounce.</p>
+<p>Gibbs and Zehner offer no recommendations for solutions to the problems they raise<a href="index.html?p=581#_edn14" name="_ednref14">[14]</a>—though much as I would have welcomed that, I will acknowledge that this is not a fatal flaw; just publicizing the depressing information can be reasonable for the moment…IF that information is trustworthy.</p>
+<p>One criticism (April 24, 2020) contends that the film is not only sloppy but sometimes just wrong, and that it is rehashing old ideas.<a href="index.html?p=581#_edn15" name="_ednref15">[15]</a> If so (and I have no reason to doubt it), that should be the end of the story. But I’m on a roll and won’t stop…</p>
+<p>Often, I felt the film was making irrational leaps based on imperfect achievements of ongoing research and technological development. At least some—maybe many—claims may well be true in principle but come across as making the compromised subject worthless when in fact the shortcomings are hardly surprising (though the film makes those shortcomings sound more severe than many of us may have come to think). For example: two separate and often cited moments show behind-the-scenes shots of a seemingly large number of solar panels intended to power the event. Accompanying clips of stagehand “revelations” trivialize the woefully disappointing actual solar generation for the amount of advertised solar use (with an underlying tone that the event organizers made deliberately misleading claims). The film also offers the shocking! shocking! observation that in the event of rain (or just shortage of general solar-generated electricity), the festival must rely on natural gas (a fossil fuel, of course). How dare we settle for such imperfect technology??</p>
+<p>At least one parallel scene in a large field of solar panels (built in 2008<a href="index.html?p=581#_edn16" name="_ednref16">[16]</a>) in Lansing, Michigan, has a spokesperson dismissing the practicality of solar energy as too limited (this huge field of panels, he assures us, will power only about 10 homes) and too costly.</p>
+<p>Okay. But even if accurate, these denunciations of solar energy feel all-or-nothing: a disappointing result (especially if deliberately distorted by concert organizers) somehow invalidates the entire solar concept. I would have thought that we all know that current technology (an important subject further addressed below) needs work; indeed, all technology of any kind is usually a process of incremental improvement. For green energy, key concerns include whether such limited successes are better than nothing, whether they&#8217;ve been implemented too early, how they compare with alternatives, and how they may evolve. This is one of many points at which I’d have liked information from a trustworthy scientist well versed in the subject. Instead, we get interviews with seemingly sincere stagehands (perhaps flattered by the chance to be in a film, though quite possibly truthful within the framework of whatever they know) and the director’s (and presumably producer’s) inferences that we are to take them as objective.<a href="index.html?p=581#_edn17" name="_ednref17">[17]</a></p>
+<p>This kind of uncertainty permeates the film. Exactly whom can we trust? What personal agendas do the interviewees have? Have they been coached at all by the filmmakers? Probably not, but again and again I found myself wanting to know just how independently accurate the narrator’s and interviewees’ statements are.</p>
+<p>Here’s one possible counter to the film’s dismissal of all renewable energy:</p>
+<p style="padding-left: 40px;">…the technology used for wind and solar energy has improved markedly in recent years, while the costs have plummeted. Meanwhile, while electric cars often require fossil fuel-generated energy to produce them and provide the electricity to fuel them, research [on electric car batteries]<a href="index.html?p=581#_edn18" name="_ednref18">[18]</a> has shown they still emit less greenhouse gas and air pollutants over their lifetime than a standard petrol [i.e., gasoline] or diesel car.</p>
+<p>A book-length study by a collection of various specialists in environmental academia argues that ultimately, renewable energy is, in fact, feasible.<a href="index.html?p=581#_edn19" name="_ednref19">[19]</a></p>
+<p>After the Lansing clip, the film proceeds to a parallel dissing of wind power. At the end of that scene, Gibbs asks, “Is it possible for machines made by industrial civilization to save us from industrial civilization?” Just in case we had any doubt about the answer, he uses the rest of the film to answer the question with profuse evidence to the contrary.</p>
+<p>One of his sources for support is from University of Oregon Professor of Sociology and Environmental Studies, Richard York. In a 2012 article in a peer-reviewed publication, York wrote:</p>
+<p style="padding-left: 40px;">I show that the average pattern across most nations of the world over the past fifty years is one where each unit of total national energy use from non-fossil-fuel sources displaced less than one-quarter of a unit of fossil-fuel energy use and, focusing specifically on electricity, each unit of electricity generated by non-fossil-fuel sources displaced less than one-tenth of a unit of fossil-fuel-generated electricity. These results challenge conventional thinking in that they indicate that suppressing the use of fossil fuel will require changes other than simply technical ones such as expanding non-fossil-fuel energy production.<a href="index.html?p=581#_edn20" name="_ednref20">[20]</a></p>
+<p>I don’t know York’s science background for environmental studies (at least nominally, his PhD was in sociology), or what new data or replies have appeared in the last 8 years, but his troubling conclusion could point to abandonment of such technological efforts…or to advances in those efforts. Interviewed in the film (presumably in the last year or so), York seems to extend his point from a relatively small gain over fossils fuels to a contention that countries are actually making things worse with their green energy efforts.</p>
+<p>This kind of presentation leads to the huge problem, often debated and to which I’m sympathetic, of “technological fixes.”<a href="index.html?p=581#_edn21" name="_ednref21">[21]</a> Briefly, as I understand the principle, the question is whether a technological “advance” inevitably produces backlashes that make its use worse than its benefits.<a href="index.html?p=581#_edn22" name="_ednref22">[22]</a></p>
+<p>Given that it’s unrealistic to expect that we will undo the “progress” of “civilization” (war[t]s and all) and especially its material culture, how do we approach technology in relation to stopping (and reversing) the human-caused climate crisis before it’s too late (assuming it isn’t already)? The filmmakers raise an issue that has concerned me for many years:<a href="index.html?p=581#_edn23" name="_ednref23">[23]</a> what is the trade-off between possible technological solutions and their drain on human and environmental resources? As the film observes, manufacturing solar panels involves energy use for mining many resources (which in at least some cases are medically dangerous to the miners), manufacturing and assembling the panels, sending out salespeople, transporting the panels, and installing them. And then their efficacy will gradually diminish, and at some point totally need replacing, with a repetition of that cycle, unless during that 20-30 year period, the technology is significantly improved, or replaced. (Barbara invites us to compare how we take for granted replacement needs for fossil-fuel driven technology on which we depend, like furnaces.) These are not trivial matters, but I don’t see why we’d be ready to renounce all such efforts. More importantly—and more difficult—is trying to gauge <em>which</em> efforts have promise worth pursuing and which should be sidelined. That’s a guessing game that even the most qualified may find hard to judge,<a href="index.html?p=581#_edn24" name="_ednref24">[24]</a> though the filmmakers seem to have no trouble with it.</p>
+<p>The same kind of concern applies, say, to electric vehicles (EVs). My privileged financial station in life allows me to own a Prius, but I’ve never been sure of its full value, and I would certainly like to see massive amounts of convenient mass transit replace private vehicles (I assume the long-term resources-and-energy trade-off would be dramatic). I have been especially concerned about the toxic rare earths required for EV batteries; the mining is typically done by workers with little alternative to sustain themselves and anyone they support.</p>
+<p>Biomass is another important concern in the film. Understandably, the focus is not on the general meaning (for example, “the amount of living matter in a given habitat, expressed either as the weight of organisms per unit area or as the volume of organisms per unit volume of habitat”<a href="index.html?p=581#_edn25" name="_ednref25">[25]</a>), but a more restrictive energy-generating context: “organic matter, especially plant matter, that can be converted to fuel and is therefore regarded as a potential energy source.”<a href="index.html?p=581#_edn26" name="_ednref26">[26]</a> Barbara has pointed out to me that the topic is complicated well beyond simplistic definition that I’m settling for here.<a href="index.html?p=581#_edn27" name="_ednref27">[27]</a><strong><br />
+</strong></p>
+<p>According to the film’s quotations, just as politicians and businesspeople often tout natural gas as a suitable fossil fuel replacement for coal or oil (“only half the CO<sub>2 </sub>emission!”), they frequently also praise biomass as a renewable, carbon-neutral substitute. The film depicts a number of disturbing uses of “biomass,” and <em>Scientific American </em>(for example) in 2018 previously echoed such concerns.<a href="index.html?p=581#_edn28" name="_ednref28">[28]</a> There is a serious question of just how much carbon dioxide biomass actually generates (a lot, apparently) and “renewable” is a dodgy term for life forms that are being destroyed <em>en masse </em>and can take decades or even longer to be replaced. So the criticism of biomass use seems important,<a href="index.html?p=581#_edn29" name="_ednref29">[29]</a> though former environmentalist supporters appear to have seen the error of their ways.</p>
+<p>Then there’s this question: if Gibbs and Zehner only recently repented their own support for biomass, and if some environmentalists out there still support it, why should the filmmakers be so outraged? Wouldn&#8217;t you think they’d have sympathy for those who haven’t (yet) seen the light but maybe will thanks to the film?</p>
+<p>The movie does take up an issue that I suspect is central to the climate crisis: overpopulation. A compelling pair of graphs, probably accurate, shows that in the 200 years or so of the Industrial Revolution, and thanks to its fossil fuel dependency (“a resource developed over tens of millions of years”), world population has multiplied 10 times and human general consumption has multiplied another 10 times, so that (according to this calculation) human impact is 100 times what it was 200 years ago. I have a perhaps unworthy suspicion that the filmmakers are hinting at a Malthusian dynamic but know it would hurt their cause if they said that aloud. The narration goes on to voice an understandable terror that I share about the <em>accumulation </em>of human activities, of which climate change is only one, so that our chances of surviving as a species (or without apocalyptic wars) are small.</p>
+<p>I find, though, that this (melo?)dramatic conclusion is a wedge for discounting any value in concern or response for the climate change we are undergoing, as if the cause is just too hopeless. Maybe it is, but what else can we do than try to undo this logic?</p>
+<p>Population control is a highly sensitive topic (I don’t think the film mentions that) because, among other things,<a href="index.html?p=581#_edn30" name="_ednref30">[30]</a> its advocacy has come to be taken as a racist attack to diminish or eliminate non-white populations. To some extent, this charge must be true—racists will glom onto anything that seems to further their agenda. But we all need to acknowledge the need to provide convincing explanations of the over-population problem with answers that DON’T focus on anything resembling genocide—indeed, with sympathy for the travails of the most out-of-control populations.<a href="index.html?p=581#_edn31" name="_ednref31">[31]</a> Some of us are too intimidated to do this, and some of our accusers will not hear any challenge to their charges.</p>
+<p>Barbara and I raise this issue in our presentations, which are almost always to white people; it’s our failing that we haven’t figured out how to engage diverse populations.</p>
+<p>The most troubling part of the film for me is charges against major spokespeople in our movement as actually colluding with capitalism (if that term bothers you, substitute “big energy-related business”). I have done some searching for replies from people the film attacks, but I only found this one from Bill McKibben (in which he acknowledges his own <em>mea culpa </em>of once having supported biomass) that sounds reasonable: <a href="https://350.org/response-planet-of-the-humans-documentary/"><u>https://350.org/response-planet-of-the-humans-documentary/</u></a>.</p>
+<p>Responses from Al Gore may be out there, but I haven’t found any. (Please share any such information you may have.) Because of my experience in his training program, I especially feel he needs to confront this charge, which is buttressed by footage of compromising statements he has made and shots of his name associated with businesses significantly contributing carbon emission. There may be a lot more to this story that outright refutes (though I think that’s unlikely) or at least mitigates his role and any attitude changes he has undergone.<a href="index.html?p=581#_edn32" name="_ednref32">[32]</a> We thousands of Climate Reality acolytes could use a good deal of help in figuring out how and whether, in an honest but not unnecessary way, to integrate useful snippets from this film into our presentations. My own inclination, though not definitive, is to acknowledge its existence, point out the controversy about it, and otherwise leave it alone unless audience members voice specific concerns about it.</p>
+<p>A few final observations:</p>
+<ul>
+<li>So far as I can recall, the film interviews people separately on specific issues (like overpopulation) but (for example) does not invite them to discuss whether in their eyes their particular micro-criticisms (so to speak) blend with the many other issues in the movie to warrant the macro-criticism of the film. That is, for example, legitimate concern with population growth is not necessarily part of an attack on the value of green energy.</li>
+</ul>
+<ul>
+<li>According to some commentators, data or calculations are sometimes just wrong, for example:</li>
+</ul>
+<p style="padding-left: 80px;">What the movie showed to back up [a] claim was a pie chart showing, not German <em>electricity</em> sources, but German <em>energy</em> sources. This includes natural gas used for heating buildings, petroleum products used for transportation, and other industrial uses of energy. Wind may only account for a small percentage of Germany’s overall energy needs, but it produces nearly 30% ;of its ele3ctricity, and that is important.<a href="index.html?p=581#_edn33" name="_ednref33">[33]</a></p>
+<p style="padding-left: 40px;">And indeed, many other population centers report significant achievements in (good) green energy electricity generation. Would the filmmakers offer calculations to cast doubt on their claims, too?</p>
+<ul>
+<li>At times the film indulges in guilt by association (or to resort to a cliché, throwing the baby out with the bathwater)—for example, in the way it disses solar energy failure during rainstorms (or more generally, on cloudy days), or the juxtaposition of a claim for preservation of nature via solar energy with (seemingly) inappropriate environmental destruction to clear desert vegetation for solar panel installation.<a href="index.html?p=581#_edn34" name="_ednref34">[34]</a></li>
+</ul>
+<p style="padding-left: 40px;">We don’t know how common this is, how “necessary” it is, or how endangered this particular kind of growth is. Humans may need to find a way of balancing their needs with their exploitation of natural resources, but if we avoided <em>any </em>destruction of natural resources, how would we continue to exist? Are we all really ready to return to hunting-gathering?</p>
+<ul>
+<li>A similar argumentative error involves confusion of causation with correlation, as one writer notes in relation to alleged hypocritical behavior by the Sierra Club:</li>
+</ul>
+<p style="padding-left: 80px;">…the film makes the weird observation that Sierra Club’s Beyond Coal campaign coincided with the fracking boom in the United States, and concludes that the two are somehow connected.<a href="index.html?p=581#_edn35" name="_ednref35">[35]</a></p>
+<p style="padding-left: 40px;">The film’s ploy of ending with a few ironic comments can provide a similar effect, as when it acknowledges that McKibben has recanted his support for biomass but stresses that his college still uses it. Are we to think he has enough campus clout to change that condition but is refusing to use it? Or are we to expect him to leave the college altogether?</p>
+<p>I could keep going. But I won’t.</p>
+<hr />
+<p>NOTES</p>
+<p><a href="index.html?p=581#_ednref1" name="_edn1">[1]</a> For one example of a commentary that takes the film’s claims at face value, see <a href="https://www.spectator.com.au/2020/04/the-planet-of-the-humans-moore-vs-gore-and-the-renewables-recidivists/"><u>https://www.spectator.com.au/2020/04/the-planet-of-the-humans-moore-vs-gore-and-the-renewables-recidivists/</u></a>.</p>
+<p><a href="index.html?p=581#_ednref2" name="_edn2">[2]</a> Here’s a buddy of the filmmakers extolling their production: <a href="https://www.counterpunch.org/2019/08/09/consuming-the-planet-of-the-humans-the-most-important-documentary-of-the-century/"><u>https://www.counterpunch.org/2019/08/09/consuming-the-planet-of-the-humans-the-most-important-documentary-of-the-century/</u></a>.</p>
+<p><a href="index.html?p=581#_ednref3" name="_edn3">[3]</a> Sabotage…or an ill-advised effort to correct untruths?</p>
+<p><a href="index.html?p=581#_ednref4" name="_edn4">[4]</a> The film is at <a href="https://www.youtube.com/watch?v=Zk11vI-7czE"><u>https://www.youtube.com/watch?v=Zk11vI-7czE</u></a><u>. </u>The film’s home web page is  <a href="https://planetofthehumans.com/"><u>https://planetofthehumans.com/</u></a>.</p>
+<p><a href="index.html?p=581#_ednref5" name="_edn5">[5]</a> The web site highlights Moore saying (in caps): “THIS IS PERHAPS THE MOST URGENT FILM WE’VE SHOWN IN THE 15 YEAR HISTORY OF OUR FILM FESTIVAL” Moore co-founded this festival in 2005.</p>
+<p><a href="index.html?p=581#_ednref6" name="_edn6">[6]</a> I could understand why Moore might say we should take the arguments of this film seriously, but I am genuinely bewildered by why, with all its problems, he has given seemingly total, unquestioning support to it. Perhaps I should have listened more to critics of his earlier films, which I mostly found compelling, as insufficiently grounded? I hope not.</p>
+<p><a href="index.html?p=581#_ednref7" name="_edn7">[7]</a> Only one scene that I remember had the irreverent Moore touch—when Gibbs and Zehner (and an unseen photographer) are threatened for having trespassed on property of a company they are trying to expose. They express mock innocence but gradually make their way off the property.</p>
+<p><a href="index.html?p=581#_ednref8" name="_edn8">[8]</a> <a href="https://www.filmsforaction.org/watch/michael-moore-presents-planet-of-the-humans/"><u>https://www.filmsforaction.org/watch/michael-moore-presents-planet-of-the-humans/</u></a>.</p>
+<p><a href="index.html?p=581#_ednref9" name="_edn9">[9]</a> An especially disquieting example is a sequence that quotes Vandana Shiva, who, while lending rare diversity to the film’s interviewees, has come under considerable criticism for her own ambiguous (to put it nicely) behavior. See for example the 2014 <em>New Yorker </em>article <u>https://www.newyorker.com/magazine/2014/08/25/seeds-of-doubt</u>. I don’t know if any follow-up accounts have indicated that she effectively addressed the criticisms in the five years between the article and the film’s release.</p>
+<p><a href="index.html?p=581#_ednref10" name="_edn10">[10]</a> Above, I cited his reaction to the film. Here’s a 5-month old article about his more general concern about shifting strategies of client denial proselytizers: <a href="https://www.theguardian.com/science/2019/nov/09/doomism-new-tactic-fossil-fuel-lobby"><u>https://www.theguardian.com/science/2019/nov/09/doomism-new-tactic-fossil-fuel-lobby</u></a><u>.</u></p>
+<p><a href="index.html?p=581#_ednref11" name="_edn11">[11]</a> Web site: <u>http://www.katharinehayhoe.com/wp2016/</u>.</p>
+<p><a href="index.html?p=581#_ednref12" name="_edn12">[12]</a> <a href="https://www.thesolarnerd.com/blog/planet-of-the-humans-debunked/"><u>https://www.thesolarnerd.com/blog/planet-of-the-humans-debunked/</u></a>.A slightly different summary is: “A delusion-shattering documentary on how the environmental and green energy movements have been taken over by capitalists.” <a href="https://www.rottentomatoes.com/m/planet_of_the_humans"><u>https://www.rottentomatoes.com/m/planet_of_the_humans</u></a>, April 22, 2020. While I liked this summary, since the site bills itself as spiritual, I didn’t bother looking at how the evaluation plays out.</p>
+<p><a href="index.html?p=581#_ednref13" name="_edn13">[13]</a> <a href="https://earther.gizmodo.com/planet-of-the-humans-comes-this-close-to-actually-getti-1843024329"><u>https://earther.gizmodo.com/planet-of-the-humans-comes-this-close-to-actually-getti-1843024329</u></a>. This commentary includes the damning claim that “There’s a reason that Breitbart and other conservative voices aligned with climate denial and fossil fuel companies have taken a shine to the film. It’s because it ignores the solution of holding power to account and sounds like a racist dog whistle.” For more on ecofascism: <a href="https://newrepublic.com/article/154971/rise-ecofascism-history-white-nationalism-environmental-preservation-immigration"><u>https://newrepublic.com/article/154971/rise-ecofascism-history-white-nationalism-environmental-preservation-immigration</u></a><u>.</u></p>
+<p><a href="index.html?p=581#_ednref14" name="_edn14">[14]</a> Elsewhere, Gibbs is said to have “suggested that unrestrained economic and population growth should be the target of environmentalists’ efforts rather than technological fixes.” [<a href="https://www.theguardian.com/environment/2020/apr/28/climate-dangerous-documentary-planet-of-the-humans-michael-moore-taken-down"><u>https://www.theguardian.com/environment/2020/apr/28/climate-dangerous-documentary-planet-of-the-humans-michael-moore-taken-down</u></a>] I do agree that these should be included in our approach, but certainly not exclusively. I wonder why this perspective wasn’t articulated in the film (or did I miss it?).</p>
+<p><a href="index.html?p=581#_ednref15" name="_edn15">[15]</a> <a href="https://ketanjoshi.co/2020/04/24/planet-of-the-humans-a-reheated-mess-of-lazy-old-myths/"><u>https://ketanjoshi.co/2020/04/24/planet-of-the-humans-a-reheated-mess-of-lazy-old-myths/</u></a></p>
+<p><a href="index.html?p=581#_ednref16" name="_edn16">[16]</a> <em>Ibid</em>.</p>
+<p><a href="index.html?p=581#_ednref17" name="_edn17">[17]</a> This is the kind of moment when I wonder just how much Moore was involved with the film—and if he was, why he gave passes to so many moments like this.</p>
+<p><a href="index.html?p=581#_ednref18" name="_edn18">[18]</a> <a href="https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf"><u>https://theicct.org/sites/default/files/publications/EV-life-cycle-GHG_ICCT-Briefing_09022018_vF.pdf</u></a>. If I’m reading this correctly, however, it’s only about the benefit of the batteries vs. fossil fuel and is not taking into account the lifetime cost of manufacturing and maintaining each kind of car. I’d guess that the full financial and human cost of producing a Prius is greater than for a gasoline car.</p>
+<p><a href="index.html?p=581#_ednref19" name="_edn19">[19]</a> <u>https://web.stanford.edu/group/efmh/jacobson/Articles/I/CountriesWWS.pdf</u></p>
+<p><a href="index.html?p=581#_ednref20" name="_edn20">[20]</a> The quotation is from the article abstract at <a href="https://www.researchgate.net/publication/258686353_Do_Alternative_Energy_Sources_Displace_Fossil_Fuels"><u>https://www.researchgate.net/publication/258686353_Do_Alternative_Energy_Sources_Displace_Fossil_Fuels</u></a>.</p>
+<p><a href="index.html?p=581#_ednref21" name="_edn21">[21]</a> The film includes comments on this subject from a Penn State anthropologist, Nina Jablonski.</p>
+<p><a href="index.html?p=581#_ednref22" name="_edn22">[22]</a> I know just enough about this topic to take it seriously without knowing how to decide whether (or when) it is apt. The topic is central to challenges of how to define the mostly useless idea of “progress.” The problem of the technical fix can become a field day for modern Luddites, and it is (or should be) a major concern within the climate crisis movement. Obvious examples of questionable technology include nuclear energy and weapons, fossil fuel provision of energy, and the internet with its ability to deceive and attack people. We might also cite the whole industrial revolution and its variety of additions to human woes. Add your own examples. They&#8217;re seemingly endless.</p>
+<p>Against such claims are those “fixes” that seem to prolong and ease lives, like developments in medicine (though a backlash here is the expanding and aging human population competing for limited resources), overall longevity (though regulated, so to speak, by class and wealth), leisure (though before “civilization,” hunters-gatherers, short-lived though they might have been, reportedly had much less work to do and within their environmental realities, much more freedom), and access to resources (like reading and books) that stimulate gratifications for the brain.</p>
+<p>How much of technological history is an escalating dialectic between development of “tools” with anti-social uses (like weaponry) and counters to them, which then breed new counters, and… (Hominin—as opposed to the 300,000 or so years of <em>homo sapiens</em>— tool-making goes back at least 2.2 million years.)</p>
+<p>What about (the very complex issue of) population growth vs. family planning?</p>
+<p><a href="index.html?p=581#_ednref23" name="_edn23">[23]</a> I used to fantasize that a book would be written showing long-term trade-offs of resources for various commodities—e.g., an electric razor (including energy use and replacement life) vs. manual razors (including blades, shaving cream, after-shave).</p>
+<p><a href="index.html?p=581#_ednref24" name="_edn24">[24]</a> A useful critique that seems to know what it’s talking about asserts:</p>
+<p style="padding-left: 40px;"><em>Planet of the Humans</em> is factually correct in pointing out that everything we might have thought of as “green” actually turns out to be tainted to some extent or other by association with fossil fuels. But that is hardly surprising, since literally <em>everything</em> we build, buy, or trade has had some kind of fossil fuel input involved in it, from the food we eat, to the clothes we wear, to the chairs we sit on, to the houses we live in, to the books we read, to the phones we talk on. [<a href="https://www.filmsforaction.org/articles/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/"><u>https://www.filmsforaction.org/articles/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/</u></a><u>]</u></p>
+<p><a href="index.html?p=581#_ednref25" name="_edn25">[25]</a> <a href="https://www.dictionary.com/browse/biomass"><u>https://www.dictionary.com/browse/biomass</u></a>.</p>
+<p><a href="index.html?p=581#_ednref26" name="_edn26">[26]</a> <em>Ibid</em>. I’m always leery of “dictionary” definitions for complex subjects, but this seems a reasonable summary for current purposes, though many qualifications and broadening or narrowing could be added. For example, here’s the Wikipedia definition on the day I checked:</p>
+<p style="padding-left: 40px;">[Biomass is] plant or animal material used for energy production, or in various industrial processes as raw substance for a range of products. It can be purposely grown energy crops, wood or forest residues, waste from food crops, horticulture, food processing, animal farming, or human waste from sewage plants.</p>
+<p><a href="index.html?p=581#_ednref27" name="_edn27">[27]</a> Barbara offers this overview: When I hear the term “biomass,” my brain goes to an ecosystem usage.  In general, the biomass of all of the producers (plants and the like) is 10 times that of the consumers that eat producers (think herbivores such as cows), which in turn is 10 times the next level of consumers (secondary – those that eat meat – carnivores). Illustrations of biomass at different “trophic” levels, referring to a particular ecosystem.  The first is rather abstract.  The second shows a particular but typical food/biomass/energy pyramid:</p>
+<p style="padding-left: 120px;"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-591" src="wp-content/uploads/2019/08/Doc6-MAYBE-CROPPED-300x171.jpg" alt="" width="300" height="171" data-wp-editing="1" srcset="wp-content/uploads/2019/08/Doc6-MAYBE-CROPPED-300x171.jpg 300w, wp-content/uploads/2019/08/Doc6-MAYBE-CROPPED.jpg 658w" sizes="(max-width: 300px) 100vw, 300px" />           <img decoding="async" class="alignnone size-medium wp-image-592 lazyload" data-src="http://www.richardyanowitz.com/wordpress/wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED-300x260.jpg" alt="" width="300" height="260" data-srcset="https://www.richardyanowitz.com/wordpress/wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED-300x260.jpg 300w, https://www.richardyanowitz.com/wordpress/wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED.jpg 555w" data-sizes="(max-width: 300px) 100vw, 300px" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" style="--smush-placeholder-width: 300px; --smush-placeholder-aspect-ratio: 300/260;" /><noscript><img decoding="async" class="alignnone size-medium wp-image-592" src="wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED-300x260.jpg" alt="" width="300" height="260" srcset="wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED-300x260.jpg 300w, wp-content/uploads/2019/08/DOC7-MAYBE-CROPPED.jpg 555w" sizes="(max-width: 300px) 100vw, 300px" /></noscript></p>
+<p><img decoding="async" class="alignnone size-medium wp-image-598" src="http://www.richardyanowitz.com/wordpress/wp-content/uploads/2019/08/Doc6.tif" alt="" width="1" height="1" /><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-601" src="http://www.richardyanowitz.com/wordpress/wp-content/uploads/2019/08/Doc6-MAYBE-CROPPED.tif" alt="" width="1" height="1" /></p>
+<p>[<u><a href="https://www.richardyanowitz.com/wordpress/commentary-on-the-film-planet-of-the-humans/Emedicalprep.com">Emedicalprep.com</a></u>]</p>
+<p><a href="index.html?p=581#_ednref28" name="_edn28">[28]</a> <a href="https://www.scientificamerican.com/article/congress-says-biomass-is-carbon-neutral-but-scientists-disagree/"><u>https://www.scientificamerican.com/article/congress-says-biomass-is-carbon-neutral-but-scientists-disagree/</u></a>.</p>
+<p><a href="index.html?p=581#_ednref29" name="_edn29">[29]</a> Even here, Zehner adds an unnecessary pile-on in saying that even if we used every tree in the U.S. for biomass fuel, we’d get only a year of energy benefit. I understand he is trying to make a point about how severely limited the benefits of biomass energy generation are, but once again, the film offers no supporting evidence for this statement. <em>And it isn’t important: the point has already been made.</em> Even if we’d get a century of energy benefit, the technique would <em>still</em> seem counter-productive.</p>
+<p>Barbara observes: I thought this point was handled very poorly.  Cutting down trees for fuel is not a well-defined operation. First of all, it depends on the tree species and the biome in which it is grown. Also, the film does not mention that a living tree is a carbon sink, while a wooden log from a tree acts as a carbon source, putting more CO2 into the atmosphere. Instead of cutting down trees, I still believe we should be planting them. If we do cut down trees for fuels and materials, I think we should be going more with such fast-growing species as bamboo.</p>
+<p><a href="index.html?p=581#_ednref30" name="_edn30">[30]</a> I know little about the Catholic position, but here’s a link to a Duke PDF of a Catholic document that seeks to insert nuances into the Church’s birth control policy: <u>https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=2845&amp;context=lcp.</u></p>
+<p><a href="index.html?p=581#_ednref31" name="_edn31">[31]</a> SIECUS (Sex Ed for Social Change) links sexuality with social justice and is careful to include <em>everyone</em> as its target audience:</p>
+<p style="padding-left: 40px;">We view sexuality as a fundamental part of being human, one worthy of dignity and respect. We advocate for the rights of all people to accurate information, comprehensive sexuality education, and the full spectrum of sexual and reproductive health services…. SIECUS envisions an equitable nation where all people receive comprehensive sexuality education and quality sexual and reproductive health services affirming their identities, thereby allowing them to access and enjoy sexual and reproductive freedom, as they define it for themselves. [<u><a href="https://siecus.org/about-siecus/">https://siecus.org/about-siecus/</a></u>]</p>
+<p><a href="index.html?p=581#_ednref32" name="_edn32">[32]</a> The closing remark added to the You Tube release of the film include some back-pedaling on biomass by Gore, McKibben, and others since the film first appeared. The implication is that the film prompted those changes. If so, great. And great that the compromised leaders paid attention, whatever their reasons.</p>
+<p><a href="index.html?p=581#_ednref33" name="_edn33">[33]</a> <u><a href="https://votetosurvive.org/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/">https://votetosurvive.org/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/</a></u>.</p>
+<p><a href="index.html?p=581#_ednref34" name="_edn34">[34]</a> My reference here is to a point at about the 39-minute mark where a bulldozer is shown destroying five-century old desert vegetation.</p>
+<p><a href="index.html?p=581#_ednref35" name="_edn35">[35]</a> <a href="https://www.filmsforaction.org/articles/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/"><u>https://www.filmsforaction.org/articles/skepticism-is-healthy-but-planet-of-the-humans-is-toxic/</u></a></p>
+
+</div><!-- .entry -->
+
+
+
+
+
+	<section id="related-posts" class="clr">
+
+		<h3 class="theme-heading related-posts-title">
+			<span class="text">You Might Also Like</span>
+		</h3>
+
+		<div class="oceanwp-row clr">
+
+			
+			
+				
+				<article class="related-post clr col span_1_of_3 col-1 post-16 post type-post status-publish format-standard hentry category-climatecrisis entry">
+
+					
+					<h3 class="related-post-title">
+						<a href="index.html?p=16" rel="bookmark">Green New Deal</a>
+					</h3><!-- .related-post-title -->
+
+								
+						<time class="published" datetime="2019-07-19T20:47:42-04:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>July 19, 2019</time>
+						
+
+				</article><!-- .related-post -->
+
+				
+			
+		</div><!-- .oceanwp-row -->
+
+	</section><!-- .related-posts -->
+
+
+
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+
+<aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar">
+
+	
+	<div id="right-sidebar-inner" class="clr">
+
+		<div id="nav_menu-3" class="sidebar-box widget_nav_menu clr"><h4 class="widget-title">Main menu</h4><div class="menu-side-menu-container"><ul id="menu-side-menu" class="menu"><li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-124"><a href="index.html">Parts of my life that drive this blog</a></li>
+<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359"><a href="category/lockdown/index.html">> Ruminations during COVID-19/coronavirus lockdown (starting March 2020)</a></li>
+<li id="menu-item-623" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-623"><a href="category/climatecrisis/index.html">> Climate crisis</a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360"><a href="category/political/page/1/index.html">> Social and political</a></li>
+<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358"><a href="category/dissertation/page/1/index.html">> Tudor Attitudes towards the Power of Language: a 1990s time capsule of my dissertation in the midst of updating</a></li>
+<li id="menu-item-625" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-625"><a href="category/judaism-and-me/index.html">> Judaism and me</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="index.html?p=115">> Acting resume</a></li>
+<li id="menu-item-128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-128"><a href="index.html?p=127">> Teaching resume</a></li>
+</ul></div></div><div id="search-2" class="sidebar-box widget_search clr">
+<form aria-label="Search this website" role="search" method="get" class="searchform" action="index.html">	
+	<input aria-label="Insert search query" type="search" id="ocean-search-form-3" class="field" autocomplete="off" placeholder="Search" name="s">
+		</form>
+</div>
+		<div id="recent-posts-2" class="sidebar-box widget_recent_entries clr">
+		<h4 class="widget-title">Recent Posts</h4>
+		<ul>
+											<li>
+					<a href="index.html?p=881">Barbara died November 24, 2023</a>
+									</li>
+											<li>
+					<a href="index.html?p=845">MEMORIES OF MY SISTER JUDI (JUDITH YANOWITZ SINGER), 1943-2021</a>
+									</li>
+											<li>
+					<a href="index.html?p=842">O Clickbaiting! How Did Capitalism Ever Get Along without Thee?? (Notes on media manipulation of our minds)</a>
+									</li>
+											<li>
+					<a href="index.html?p=838">Notes on opposing the invasion of Ukraine</a>
+									</li>
+											<li>
+					<a href="index.html?p=828">Some paternal family history</a>
+									</li>
+					</ul>
+
+		</div><div id="archives-2" class="sidebar-box widget_archive clr"><h4 class="widget-title">Archives</h4>
+			<ul>
+					<li><a href='2024/05/index.html'>May 2024</a></li>
+	<li><a href='2023/10/index.html'>October 2023</a></li>
+	<li><a href='2023/09/index.html'>September 2023</a></li>
+	<li><a href='2022/03/index.html'>March 2022</a></li>
+	<li><a href='2021/02/index.html'>February 2021</a></li>
+	<li><a href='2021/01/index.html'>January 2021</a></li>
+	<li><a href='2020/12/index.html'>December 2020</a></li>
+	<li><a href='2020/11/index.html'>November 2020</a></li>
+	<li><a href='2020/10/index.html'>October 2020</a></li>
+	<li><a href='2020/09/index.html'>September 2020</a></li>
+	<li><a href='2020/08/index.html'>August 2020</a></li>
+	<li><a href='2020/07/index.html'>July 2020</a></li>
+	<li><a href='2020/05/index.html'>May 2020</a></li>
+	<li><a href='2020/04/index.html'>April 2020</a></li>
+	<li><a href='2020/03/index.html'>March 2020</a></li>
+	<li><a href='2020/02/index.html'>February 2020</a></li>
+	<li><a href='2020/01/index.html'>January 2020</a></li>
+	<li><a href='2019/07/index.html'>July 2019</a></li>
+			</ul>
+
+			</div><div id="categories-2" class="sidebar-box widget_categories clr"><h4 class="widget-title">Categories of recent posts</h4><form action="https://www.richardyanowitz.com/wordpress" method="get"><label class="screen-reader-text" for="cat">Categories of recent posts</label><select  name='cat' id='cat' class='postform'>
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="4">&gt; Climate crisis&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="3">&gt; Family history&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="16">&gt; Judaism and me&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="14">&gt; Ruminations during COVID-19/coronavirus lockdown (starting March 2020)&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="2">&gt; Social and political&nbsp;&nbsp;(24)</option>
+	<option class="level-1" value="17">&nbsp;&nbsp;&nbsp;TURN LEFT facebook group and its discontents&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="15">&gt; Tudor Attitudes towards the Power of Language: a 1990s time capsule of my dissertation in the midst of updating&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="18">Post-2020 election posts&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(2)</option>
+</select>
+</form><script>
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+</script>
+</div><div id="ocean_custom_links-2" class="sidebar-box widget-oceanwp-custom-links custom-links-widget clr"><h4 class="widget-title">My old web site (most entries 2007-2012)</h4><ul class="oceanwp-custom-links"><li><a href="../essays.html" target="_blank" rel="noopener noreferrer">Essays on miscellaneous topics</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../musingsandmeanderingshomepage.html" target="_blank" rel="noopener noreferrer">Social and political comments</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../academic.html" target="_blank" rel="noopener noreferrer">Academic writing and teaching</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../family.html" target="_blank" rel="noopener noreferrer">My family and its history</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../theaterhomepage.html" target="_blank" rel="noopener noreferrer">Theater-acting-teaching kids</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../shortfictionhomepage.html" target="_blank" rel="noopener noreferrer">Short stories</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../TRAVEL%20start%20page.html" target="_blank" rel="noopener noreferrer">Travel</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../entertainment.html" target="_blank" rel="noopener noreferrer">Entertainment</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../pets.html" target="_blank" rel="noopener noreferrer">Pets of the 2000&#039;s</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../Otherautobiography.html" target="_blank" rel="noopener noreferrer">Other personal autobiography</a><span class="screen-reader-text">Opens in a new tab</span></li><li><a href="../index.html" target="_blank" rel="noopener noreferrer">Home page of my old web site</a><span class="screen-reader-text">Opens in a new tab</span></li></ul></div>
+	</div><!-- #sidebar-inner -->
+
+	
+</aside><!-- #right-sidebar -->
+
+
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_4 col col-1">
+							</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+				
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright - OceanWP Theme by OceanWP			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="index.html?p=581#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<script src="wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"0fe37616dd","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customScrollOffset":"0","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/www.richardyanowitz.com\/wordpress\/wp-admin\/admin-ajax.php","oe_mc_wpnonce":"ffec4bf23b"};
+</script>
+<script src="wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.5.5" id="oceanwp-main-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.5.5" id="oceanwp-drop-down-mobile-menu-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=3.5.5" id="oceanwp-drop-down-search-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.5.5" id="ow-magnific-popup-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.5.5" id="oceanwp-lightbox-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.5.5" id="ow-flickity-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.5.5" id="oceanwp-slider-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.5.5" id="oceanwp-scroll-effect-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.5.5" id="oceanwp-scroll-top-js"></script>
+<script src="wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.5.5" id="oceanwp-select-js"></script>
+<script src="wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.16.2" id="smush-lazy-load-js"></script>
+</body>
+</html>
