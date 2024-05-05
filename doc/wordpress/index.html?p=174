@@ -9,7 +9,7 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Class discrimination during a national and international crisis? Say it isn’t so!" />
 <meta property="og:description" content="Context of this post (April 3, 2020): https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html?action=click&amp;module=Top+Stories&amp;pgtype=Homepage&amp;fbclid=IwAR1KXL2jvw0fCIAZSRc9PP41Z0y_Y0ErH-N4w4bQm9Kww3CSHGIzErqjhPA Why am I not surprised at the overall disparities illustrated in this NY Times article? (I’m assuming that on the whole, it’s accurate.) As a member of the privileged and relatively healthy…" />
-<meta property="og:url" content="https://www.richardyanowitz.com/wordpress/class-discrimination-during-a-national-and-international-crisis-say-it-isnt-so/" />
+<meta property="og:url" content="wordpress/class-discrimination-during-a-national-and-international-crisis-say-it-isnt-so/" />
 <meta property="og:site_name" content="Autobiography with musings" />
 <meta property="article:published_time" content="2020-04-03T20:19:47-04:00" />
 <meta property="article:modified_time" content="2020-04-04T06:19:38-04:00" />
@@ -20,7 +20,7 @@
 <meta name="twitter:description" content="Context of this post (April 3, 2020): https://www.nytimes.com/interactive/2020/04/03/us/coronavirus-stay-home-rich-poor.html?action=click&amp;module=Top+Stories&amp;pgtype=Homepage&amp;fbclid=IwAR1KXL2jvw0fCIAZSRc9PP41Z0y_Y0ErH-N4w4bQm9Kww3CSHGIzErqjhPA Why am I not surprised at the overall disparities illustrated in this NY Times article? (I’m assuming that on the whole, it’s accurate.) As a member of the privileged and relatively healthy…" />
 <meta name="twitter:site" content="@" />
 <meta name="twitter:creator" content="@" />
-<link rel="pingback" href="https://www.richardyanowitz.com/wordpress/xmlrpc.php">
+<link rel="pingback" href="wordpress/xmlrpc.php">
 <meta name="viewport" content="width=device-width, initial-scale=1"><link rel="alternate" type="application/rss+xml" title="Autobiography with musings &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Autobiography with musings &raquo; Comments Feed" href="comments/feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Autobiography with musings &raquo; Class discrimination during a national and international crisis? Say it isn’t so! Comments Feed" href="class-discrimination-during-a-national-and-international-crisis-say-it-isnt-so/feed/index.html" />
@@ -464,7 +464,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	
 	
 		<div id="respond" class="comment-respond">
-		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=174#respond" style="display:none;">Cancel reply</a></small></h3><form action="https://www.richardyanowitz.com/wordpress/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-textarea"><label for="comment" class="screen-reader-text">Comment</label><textarea name="comment" id="comment" cols="39" rows="4" tabindex="0" class="textarea-comment" placeholder="Your comment here..."></textarea></div><div class="comment-form-author"><label for="author" class="screen-reader-text">Enter your name or username to comment</label><input type="text" name="author" id="author" value="" placeholder="Name (required)" size="22" tabindex="0" aria-required="true" class="input-name" /></div>
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="index.html?p=174#respond" style="display:none;">Cancel reply</a></small></h3><form action="wordpress/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-textarea"><label for="comment" class="screen-reader-text">Comment</label><textarea name="comment" id="comment" cols="39" rows="4" tabindex="0" class="textarea-comment" placeholder="Your comment here..."></textarea></div><div class="comment-form-author"><label for="author" class="screen-reader-text">Enter your name or username to comment</label><input type="text" name="author" id="author" value="" placeholder="Name (required)" size="22" tabindex="0" aria-required="true" class="input-name" /></div>
 <div class="comment-form-email"><label for="email" class="screen-reader-text">Enter your email address to comment</label><input type="text" name="email" id="email" value="" placeholder="Email (required)" size="22" tabindex="0" aria-required="true" class="input-email" /></div>
 <div class="comment-form-url"><label for="url" class="screen-reader-text">Enter your website URL (optional)</label><input type="text" name="url" id="url" value="" placeholder="Website" size="22" tabindex="0" class="input-website" /></div>
 <p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
@@ -544,7 +544,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<li><a href='2019/07/index.html'>July 2019</a></li>
 			</ul>
 
-			</div><div id="categories-2" class="sidebar-box widget_categories clr"><h4 class="widget-title">Categories of recent posts</h4><form action="https://www.richardyanowitz.com/wordpress" method="get"><label class="screen-reader-text" for="cat">Categories of recent posts</label><select  name='cat' id='cat' class='postform'>
+			</div><div id="categories-2" class="sidebar-box widget_categories clr"><h4 class="widget-title">Categories of recent posts</h4><form action="wordpress" method="get"><label class="screen-reader-text" for="cat">Categories of recent posts</label><select  name='cat' id='cat' class='postform'>
 	<option value='-1'>Select Category</option>
 	<option class="level-0" value="4">&gt; Climate crisis&nbsp;&nbsp;(2)</option>
 	<option class="level-0" value="3">&gt; Family history&nbsp;&nbsp;(2)</option>
